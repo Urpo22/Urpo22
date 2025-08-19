@@ -1,8 +1,10 @@
 - 👋 Hi, I’m @Urpo22
-- 👀 I’m interested in ...
+
+- 🎓 Student of Information and Communication Technology majoring in mobile applications
+- 💻 Passionate about learning more about coding
+- 👀 I’m interested in mobile applications/websites
 - 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+
 
 <!---
 Urpo22/Urpo22 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
